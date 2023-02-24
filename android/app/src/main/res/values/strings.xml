@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KháchHàng TiệnNgay</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">tfwwE3Sefbnw6SLxuJoBE2SpN8Mm877f9y2la</string>
+    <string name="facebook_app_id">1194537661300580</string>
+    <string name="facebook_client_token">4c2ce40df2eb091a19cd319c02139190</string>
+    <string name="host">sandboxcpanelv2.tienngay.vn</string>
+    <string name="host1">sandboxappkh.tienngay.vn</string>
+</resources>

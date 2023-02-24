@@ -1,0 +1,62 @@
+const ScreenNames = {
+    splash: 'Splash',
+    onboarding: 'Onboarding',
+    tabs: 'Tabs',
+    auth: 'Auth',
+    home: 'Home',
+    contracts: 'Contracts',
+    loan: 'Loan',
+    history: 'History',
+    detailsHistory: 'DetailsHistory',
+    account: 'Account',
+    notify: 'Notify',
+    setting: 'Setting',
+    agent: 'Agent',
+    findContract: 'FindContract',
+    valuation: 'Valuation',
+    paymentService: 'PaymentService',
+    loginWithBiometry: 'ConfirmPassword',
+    blank: 'Blank',
+    SettingQuickAuth: 'QuickAuthentication',
+    setPassCode: 'SetPasscode',
+    login: 'Login',
+    changePassword: 'ChangePassword',
+    profile: 'ProfileInfo',
+    identityAuthen: 'IdentityAuthen',
+    editProFile: 'EditProfile',
+    referFriend: 'ReferFriend',
+    propertyValuation: 'PropertyValuation',
+    signUp: 'SignUp',
+    myWebview: 'MyWebview',
+    contractDetail: 'ContractDetail',
+    paymentHistory: 'PaymentHistory',
+    paymentDetail: 'PaymentDetail',
+    document: 'Document',
+    detailsDocument: 'DetailsDocument',
+    paymentSchedule: 'PaymentSchedule',
+    paymentScheduleDetail: 'PaymentScheduleDetail',
+    contractPayment: 'ContractPayment',
+    otpSignUp: 'OTPSignUp',
+    otpForgotPwd: 'OTPForgotPwd',
+    forgotPwd: 'ForgotPwd',
+    updateNewPwd: 'UpdateNewPwd',
+    playVideoScreen: 'PlayVideoScreen',
+    registerLoanNow: 'RegisterLoanNow',
+    confirmPhoneNumber: 'ConfirmPhoneNumber',
+    linkAccountSocial: 'LinkAccountSocial',
+    otpConfirmPhone: 'OtpConfirmPhone',
+    otpDeleteAccount: 'OTPDeleteAccount',
+    paymentWebview: 'PaymentWebview'
+};
+
+export const TabNamesArray = ['HomeTab', 'ContractsTab', 'LoanTab', 'HistoryTab', 'AccountTab'];
+
+export const TabNames = {
+    homeTab: TabNamesArray[0],
+    contractsTab: TabNamesArray[1],
+    loanTab: TabNamesArray[2],
+    historyTab: TabNamesArray[3],
+    accountTab: TabNamesArray[4]
+};
+
+export default ScreenNames;

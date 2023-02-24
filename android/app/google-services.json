@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "924291904930",
+    "firebase_url": "https://vfc-kh.firebaseio.com",
+    "project_id": "vfc-kh",
+    "storage_bucket": "vfc-kh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924291904930:android:abd005e36368f4de4aaefb",
+        "android_client_info": {
+          "package_name": "vn.tienngay.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924291904930-9p0emnmopgqcg52v3mivo14tqf3qpmum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.tienngay.customer",
+            "certificate_hash": "ed5a79d162ffb16a6955e03301931b7b8a065f83"
+          }
+        },
+        {
+          "client_id": "924291904930-chdqnpmp962ulh922tjkipfo99eg9v30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.tienngay.customer",
+            "certificate_hash": "4033ed4500e85cdedb45155ce34454fecf1183ec"
+          }
+        },
+        {
+          "client_id": "924291904930-i8o5452o0s8bamh065srh0ma5a8i3d3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.tienngay.customer",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "924291904930-mvgo75r0tbqurh3vor6u4j9evrnsotuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGxpYk3olO4cdeRAU6eiqvg1M2Dg4fnJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924291904930-mvgo75r0tbqurh3vor6u4j9evrnsotuh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "924291904930-9miq2dh05gqtvu7p4dj4rro5gkc2gjbf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.tienngay.customer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
